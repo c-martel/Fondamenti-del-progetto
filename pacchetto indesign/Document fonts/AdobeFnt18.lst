@@ -1,0 +1,94 @@
+%!Adobe-FontList 1.18
+%Locale:0x410
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+FullName:Montserrat-Bold
+MenuName:Montserrat
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Francesca\Documents\GitHub\Fondamenti-del-progetto\Cartella finale\Document fonts\Montserrat-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:29560
+FileModTime:1493677648
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat-Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Francesca\Documents\GitHub\Fondamenti-del-progetto\Cartella finale\Document fonts\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:97072
+FileModTime:1361531782
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SymbolMT
+FamilyName:Symbol
+StyleName:Regular
+FullName:Symbol
+MenuName:Symbol
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Francesca\Documents\GitHub\Fondamenti-del-progetto\Cartella finale\Document fonts\symbol.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:70128
+FileModTime:1468669349
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Symbol
+NameArray:0,Win,1,Symbol
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Light
+FamilyName:Work Sans
+StyleName:Light
+FullName:Work Sans Light
+MenuName:Work Sans Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Francesca\Documents\GitHub\Fondamenti-del-progetto\Cartella finale\Document fonts\WorkSans-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:136980
+FileModTime:1496753332
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans Light
+NameArray:0,Win,16,Work Sans
+%EndFont
+
